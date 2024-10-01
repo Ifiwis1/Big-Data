@@ -10,9 +10,9 @@ The following questions were answered using Resilient DIstributed Datatsets (RDD
 4. Find the 10 most common sponsors that are not pharmaceutical companies, along with the number of clinical trials they have sponsored. 
 5. Plot number of completed studies for each month in 2023.
 The results can be found in the noteboooks:
-1. Ifiok_Inuk_sql.sql
-2. Ifiok_Inuk_df.ipynb
-3. Ifiok_Inuk_rdd.ipynb
+i. Ifiok_Inuk_sql.sql
+ii.  Ifiok_Inuk_df.ipynb
+iii. Ifiok_Inuk_rdd.ipynb
 
 Machine Learning - Game Recommender System 
 The purpose of this task was to train a collaborative filtering recommender system (using implicit user feedback) on the dataset provided by Steam, an online video game distribution service.
