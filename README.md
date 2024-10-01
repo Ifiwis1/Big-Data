@@ -1,7 +1,7 @@
-Big Data Tools and Technologies/n
+Big Data Tools and Technologies
 This project involved the use of python, SQL, databricks and Apache PySpark to analyze large datasets and to train machine learning models./n
 
-Data Analysis and Visualization of clinical trials datasets/n
+Data Analysis and Visualization of clinical trials datasets
 The purpose of this task was to prepare, analyze and gain insights from a clinical trial dataset. 
 The following questions were answered using Resilient DIstributed Datatsets (RDD), Dataframe (DF) and SQL:
 1. The number of distinct studies in the dataset.
