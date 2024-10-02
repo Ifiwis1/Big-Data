@@ -7,7 +7,7 @@ The purpose of this task was to prepare, analyze and gain insights from a clinic
 2.	Types of studies in the dataset along with the frequencies of each type. These should be ordered from most frequent to least frequent.
 3.	The top 5 conditions with their frequencies.
 4.	Find the 10 most common sponsors that are not pharmaceutical companies, along with the number of clinical trials they have sponsored.
-5.	Plot number of completed studies for each month in 2023.
+5.	Plot number of completed studies for each month in 2023.<br>
 The results can be found in the noteboooks: Ifiok_Inuk_sql.sql, Ifiok_Inuk_df.ipynb and Ifiok_Inuk_rdd.ipynb
 
 
