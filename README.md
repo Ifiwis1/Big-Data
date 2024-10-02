@@ -1,4 +1,4 @@
-#Big Data Tools and Technologies 
+# **Big Data Tools and Technologies**
 This project involved the use of python, SQL, databricks and Apache PySpark to analyze large datasets and to train machine learning models.
 
 ##Data Analysis and Visualization of clinical trials datasets
